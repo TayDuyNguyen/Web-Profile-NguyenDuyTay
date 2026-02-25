@@ -1,0 +1,20 @@
+{
+    "header": {
+        "home": "首页",
+        "about": "关于",
+        "projects": "项目",
+        "skills": "技能",
+        "blog": "博客",
+        "contact": "联系"
+    },
+    "footer": {
+        "rights": "版权所有。",
+        "brand_desc": "通过社交网络与我联系，获取最新项目和文章。",
+        "explore": "探索",
+        "services": "服务",
+        "blog_share": "博客分享",
+        "about_me": "关于我",
+        "privacy": "隐私政策",
+        "terms": "服务条款"
+    }
+}

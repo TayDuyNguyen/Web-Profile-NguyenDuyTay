@@ -1,0 +1,20 @@
+{
+    "header": {
+        "home": "ホーム",
+        "about": "について",
+        "projects": "プロジェクト",
+        "skills": "スキル",
+        "blog": "ブログ",
+        "contact": "連絡先"
+    },
+    "footer": {
+        "rights": "すべての権利を保有。",
+        "brand_desc": "ソーシャルネットワークを通じて私と接続し、最新のプロジェクトと記事を更新してください。",
+        "explore": "探索",
+        "services": "サービス",
+        "blog_share": "ブログ共有",
+        "about_me": "私について",
+        "privacy": "プライバシーポリシー",
+        "terms": "利用規約"
+    }
+}

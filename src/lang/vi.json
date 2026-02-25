@@ -1,0 +1,20 @@
+{
+    "header": {
+        "home": "Trang chủ",
+        "about": "Giới thiệu",
+        "projects": "Dự án",
+        "skills": "Kỹ năng",
+        "blog": "Blog",
+        "contact": "Liên hệ"
+    },
+    "footer": {
+        "rights": "Mọi quyền được bảo lưu.",
+        "brand_desc": "Kết nối với tôi qua các mạng xã hội để cập nhật những dự án và bài viết mới nhất.",
+        "explore": "Khám phá",
+        "services": "Dịch vụ",
+        "blog_share": "Blog chia sẻ",
+        "about_me": "Về tôi",
+        "privacy": "Chính sách bảo mật",
+        "terms": "Điều khoản dịch vụ"
+    }
+}
