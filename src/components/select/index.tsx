@@ -1,8 +1,8 @@
-import ReactSelect, { 
-    type SingleValue, 
+import ReactSelect, {
+    type SingleValue,
     type StylesConfig,
     type OptionProps,
-    components as selectComponents 
+    components as selectComponents
 } from "react-select";
 
 interface OptionType {
@@ -66,7 +66,7 @@ const CustomOption = (props: OptionProps<OptionType, false>) => {
 const Select = ({
     options,
     value,
-    icon,   
+    icon,
     placeholder,
     isClearable = false,
     isSearchable = false,
@@ -84,7 +84,6 @@ const Select = ({
             <ReactSelect<OptionType, false>
                 options={options}
                 value={value}
-                defaultValue={options[0]}
                 placeholder={placeholder}
                 isClearable={isClearable}
                 isSearchable={isSearchable}

@@ -7,6 +7,11 @@ import CTASection from "./CTASection";
 const HomePage = () => {
     return (
         <>
+            <div >
+                <video autoPlay loop muted className="w-full">
+                    <source src="https://res.cloudinary.com/dyragzjcd/video/upload/v1772615065/video_demo_v1_grgpet.mp4" type="video/mp4" />
+                </video>
+            </div>
             {/* Section: Hero */}
             <HeroSection />
 

@@ -23,7 +23,6 @@ i18n
             caches: ['localStorage']
         },
         fallbackLng: 'vi',
-        lng: 'vi',
         interpolation: {
             escapeValue: false
         }

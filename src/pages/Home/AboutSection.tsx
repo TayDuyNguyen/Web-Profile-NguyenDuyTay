@@ -1,4 +1,8 @@
+import { useTranslation } from "react-i18next";
+
 const AboutSection = () => {
+    const { t } = useTranslation();
+
     return (
         <section className="py-24 bg-background-light" id="about">
             <div className="max-w-7xl mx-auto px-6">
@@ -15,19 +19,16 @@ const AboutSection = () => {
 
                     {/* Content */}
                     <div className="space-y-6">
-                        <h2 className="text-3xl font-black text-slate-900">Triết lý thiết kế của tôi</h2>
+                        <h2 className="text-3xl font-black text-slate-900">{t("home.about.title")}</h2>
                         <p className="text-lg text-slate-600 leading-relaxed italic">
-                            "Thiết kế không chỉ là những gì chúng ta nhìn thấy, mà là cách nó hoạt động và cảm
-                            giác nó mang lại cho con người."
+                            {t("home.about.philosophy")}
                         </p>
                         <p className="text-slate-600 leading-relaxed">
-                            Tôi tin rằng cái đẹp thực sự nằm ở sự đơn giản và tinh tế. Mỗi dự án tôi thực hiện
-                            đều bắt đầu từ việc thấu hiểu nỗi đau của người dùng để từ đó tạo ra những giải pháp
-                            không chỉ đẹp mắt mà còn giải quyết triệt để vấn đề.
+                            {t("home.about.description")}
                         </p>
                         <div className="pt-4">
                             <button className="text-slate-900 font-bold flex items-center gap-2 hover:text-primary transition-colors underline decoration-primary decoration-2 underline-offset-8">
-                                Tìm hiểu thêm về tôi{" "}
+                                {t("home.about.learn_more")}{" "}
                                 <span className="material-symbols-outlined">expand_circle_right</span>
                             </button>
                         </div>

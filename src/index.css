@@ -24,3 +24,54 @@ body {
 .dark .glass-effect {
   background: rgba(25, 15, 35, 0.8);
 }
+
+/* Slide In Up Animation */
+@keyframes slideInUp {
+  from {
+    transform: translateY(30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+/* Enhanced slide in animation for dark menu */
+@keyframes slideInUpDark {
+  from {
+    transform: translateY(40px) translateX(-10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0) translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Swiper customization for project detail */
+.project-detail-swiper .swiper-button-next,
+.project-detail-swiper .swiper-button-prev {
+  color: white;
+  background: rgba(123, 0, 255, 0.5);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  backdrop-filter: blur(4px);
+}
+
+.project-detail-swiper .swiper-button-next::after,
+.project-detail-swiper .swiper-button-prev::after {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.project-detail-swiper .swiper-pagination-bullet {
+  background: white;
+  opacity: 0.6;
+}
+
+.project-detail-swiper .swiper-pagination-bullet-active {
+  background: #7b00ff;
+  opacity: 1;
+}

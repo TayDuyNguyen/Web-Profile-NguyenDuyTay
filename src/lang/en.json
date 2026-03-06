@@ -9,12 +9,370 @@
     },
     "footer": {
         "rights": "All rights reserved.",
-        "brand_desc": "Connect with me via social networks to update the latest projects and articles.",
+        "brand_desc": "Connect with me on social media to stay updated on the latest projects and articles.",
         "explore": "Explore",
         "services": "Services",
-        "blog_share": "Blog Share",
+        "blog_share": "Blog",
         "about_me": "About Me",
         "privacy": "Privacy Policy",
         "terms": "Terms of Service"
+    },
+    "home": {
+        "hero": {
+            "ready": "Ready for new projects",
+            "title": "Building polished digital products from scratch",
+            "description": "Turn your ideas into real websites and applications. Beautiful design, stable operation — on time, on budget.",
+            "view_projects": "View Projects",
+            "about_me": "About Me"
+        },
+        "services": {
+            "title": "Expertise & Services",
+            "description": "Providing comprehensive solutions from concept to finished digital products with high aesthetic value.",
+            "items": [
+                {
+                    "title": "UI/UX Design",
+                    "description": "Crafting refined user interfaces and optimizing digital product experiences through in-depth research."
+                },
+                {
+                    "title": "Branding",
+                    "description": "Building unique, consistent brand identity and conveying core values to customers."
+                },
+                {
+                    "title": "Product Strategy",
+                    "description": "Consulting on product development strategy based on market needs and real business challenges."
+                }
+            ]
+        },
+        "projects": {
+            "title": "Featured Projects",
+            "description": "My most cherished works, showcasing the blend of art and technology.",
+            "all_projects": "All Projects",
+            "items": [
+                {
+                    "title": "DaNang Explorer",
+                    "description": "A platform consolidating all travel services in Da Nang — from hotels, restaurants to local experiences."
+                },
+                {
+                    "title": "EduFlow",
+                    "description": "Smart learning app with personalized roadmap and effective knowledge retention tools."
+                },
+                {
+                    "title": "Sellio",
+                    "description": "Comprehensive sales management solution, optimized from cart and payment to order tracking."
+                }
+            ]
+        },
+        "about": {
+            "title": "My Design Philosophy",
+            "philosophy": "\"Design is not just what we see, but how it works and the feeling it brings to people.\"",
+            "description": "I believe that true beauty lies in simplicity and elegance. Every project I undertake starts with understanding user pain points to create solutions that are not only beautiful but also thoroughly solve problems.",
+            "learn_more": "Learn more about me"
+        },
+        "cta": {
+            "title": "Ready to turn your ideas into reality?",
+            "description": "Let's create something amazing together and bring value to the community.",
+            "start_project": "Start a new project"
+        }
+    },
+    "introduce": {
+        "hero": {
+            "greeting": "Hello, I am",
+            "name": "Nguyen Van A",
+            "role": "Creative Designer & Product Strategist",
+            "description": "I focus on creating simple, refined, and inspiring digital experiences.",
+            "location": "Hanoi, Vietnam",
+            "experience": "8+ Years of Experience"
+        },
+        "bio": {
+            "title": "My Story",
+            "p1": "My creative journey began with a curiosity about how people interact with technology. I believe that good design is not just about aesthetics, but about empathy and solving real problems intelligently.",
+            "p2": "With over 8 years of experience in UI/UX and branding, I have had the opportunity to collaborate with many startups and large corporations to build impactful products. My style leans towards minimalism, where every line and whitespace has its own purpose.",
+            "stats": {
+                "projects": "Projects Completed",
+                "awards": "Design Awards"
+            }
+        },
+        "experience": {
+            "title": "Career Journey",
+            "items": [
+                {
+                    "role": "Senior Product Designer",
+                    "company": "Creative Studio XYZ",
+                    "time": "2021 - Present",
+                    "desc": "Leading the design team to build Design Systems for next-generation digital banking applications."
+                },
+                {
+                    "role": "UI/UX Designer",
+                    "company": "Tech Solutions Asia",
+                    "time": "2018 - 2021",
+                    "desc": "Designing user experiences for an e-commerce platform with over 1 million monthly users."
+                },
+                {
+                    "role": "Junior Graphic Designer",
+                    "company": "Branding Agency ABC",
+                    "time": "2016 - 2018",
+                    "desc": "Developing brand identities and media publications for F&B brands."
+                }
+            ]
+        },
+        "values": {
+            "title": "Core Values",
+            "subtitle": "Principles that shape my work style.",
+            "items": [
+                {
+                    "title": "Minimalism is Power",
+                    "desc": "Eliminating redundant elements to focus on core values. Simplicity brings clarity and efficiency."
+                },
+                {
+                    "title": "Human-Centered Design",
+                    "desc": "Always putting users at the center of every design decision. Listen, understand, and serve."
+                },
+                {
+                    "title": "Non-stop Learning",
+                    "desc": "The technology world is always changing. I constantly update trends and new technologies to improve product quality."
+                }
+            ]
+        }
+    },
+    "projects": {
+        "title": "My Projects",
+        "description": "Explore the creative products and solutions I have built throughout my career.",
+        "filter": {
+            "all": "All"
+        },
+        "view_detail": "View Details",
+        "no_results": "No matching projects found.",
+        "not_found": "Project not found.",
+        "back_to_projects": "Back to Projects",
+        "detail": {
+            "problem": "Problem",
+            "solution": "Solution",
+            "gallery": "Design Screens",
+            "next_project": "See Next",
+            "next_btn": "Next Project",
+            "meta": {
+                "role": "Role",
+                "duration": "Duration",
+                "tools": "Tools",
+                "field": "Field"
+            }
+        }
+    },
+    "projectsDetail": {
+        "danang": {
+            "meta": {
+                "role": "Lead UI/UX Designer",
+                "duration": "4 months (2025)",
+                "tools": "Figma, Flutter",
+                "field": "Travel & Services"
+            },
+            "problemTitle": "Difficulty finding travel services in Da Nang.",
+            "problemDesc": "Travelers often need to visit multiple platforms to book hotels, find restaurants, and discover attractions. This fragmented experience makes trip planning complex and time-consuming.",
+            "solutionTitle": "Consolidate all travel services into a single platform.",
+            "solutionDesc": "DaNang Explorer integrates hotel booking, restaurant recommendations, experience tours, and a smart map into one intuitive app, helping travelers plan and enjoy a perfect trip with just a few taps."
+        },
+        "eduflow": {
+            "meta": {
+                "role": "Mobile App Designer",
+                "duration": "3 months (2025)",
+                "tools": "Figma, React Native",
+                "field": "Education"
+            },
+            "problemTitle": "Learners lack personalized roadmaps and effective memorization tools.",
+            "problemDesc": "Most learning apps today provide the same content for all users. This causes learners to get discouraged with overly difficult content or waste time on material they already know.",
+            "solutionTitle": "Adaptive learning paths and AI flashcards with spaced repetition.",
+            "solutionDesc": "EduFlow analyzes learning progress and automatically adjusts exercise difficulty. The AI flashcard system reviews at the right time to reinforce long-term memory, combined with a gamification interface that boosts daily motivation."
+        },
+        "sellio": {
+            "meta": {
+                "role": "Full-stack Designer",
+                "duration": "5 months (2025)",
+                "tools": "Figma, Next.js",
+                "field": "E-commerce"
+            },
+            "problemTitle": "Online sales management lacks a centralized and transparent system.",
+            "problemDesc": "Online shops are using multiple scattered tools to manage orders, inventory, and payments. This causes data loss, order errors, and wastes time on manual processing.",
+            "solutionTitle": "Comprehensive sales management platform from A to Z in one interface.",
+            "solutionDesc": "Sellio unifies product management, cart, multi-gateway payment, and real-time order tracking. An intuitive dashboard with revenue charts helps shop owners make fast and accurate decisions."
+        }
+    },
+    "skills": {
+        "hero": {
+            "badge": "Expertise",
+            "title": "Skills & Process",
+            "description": "The combination of aesthetic thinking and scientific workflow to create optimal digital products."
+        },
+        "technical": {
+            "title": "Technical Skills",
+            "skills": [
+                {
+                    "title": "Figma",
+                    "desc": "UI/UX Design & Prototyping"
+                },
+                {
+                    "title": "Adobe Suite",
+                    "desc": "Photoshop & Illustrator"
+                },
+                {
+                    "title": "After Effects",
+                    "desc": "Motion Graphics & Animation"
+                },
+                {
+                    "title": "Webflow",
+                    "desc": "No-code Development"
+                },
+                {
+                    "title": "React.js",
+                    "desc": "Frontend Development"
+                },
+                {
+                    "title": "Design Systems",
+                    "desc": "Scalable UI Components"
+                }
+            ]
+        },
+        "process": {
+            "title": "Design Process",
+            "subtitle": "How I bring ideas from sketches to finished products.",
+            "steps": [
+                {
+                    "title": "1. Research",
+                    "desc": "Analyze requirements, survey users, and understand competitors."
+                },
+                {
+                    "title": "2. Wireframe",
+                    "desc": "Build information architecture and sketch basic user flows."
+                },
+                {
+                    "title": "3. Prototype",
+                    "desc": "Design detailed interfaces and create realistic interactive prototypes."
+                },
+                {
+                    "title": "4. Test",
+                    "desc": "Evaluate usability and optimize based on feedback."
+                }
+            ]
+        },
+        "cta": {
+            "title": "Let's create something amazing",
+            "description": "I'm always looking for new challenges and collaboration opportunities in creative projects. Are you ready to start your next project?",
+            "contact_btn": "Contact Now",
+            "portfolio_btn": "View Portfolio",
+            "status_label": "Status",
+            "status_value": "Available for new projects"
+        }
+    },
+    "blog": {
+        "hero": {
+            "title": "Articles & Shares",
+            "description": "Explore new perspectives on design, share practical experiences and update modern UI/UX trends from the creative team."
+        },
+        "search": {
+            "placeholder": "What topic are you looking for?"
+        },
+        "filters": {
+            "all": "All",
+            "ui_ux": "UI/UX Design",
+            "typography": "Typography",
+            "branding": "Branding",
+            "tools": "Tools",
+            "case_study": "Case Study"
+        },
+        "featured": {
+            "badge": "Featured",
+            "read_more": "Read more"
+        },
+        "newsletter": {
+            "title": "Subscribe to newsletter",
+            "description": "Get the latest articles and valuable design resources weekly directly to your email.",
+            "placeholder": "Your email...",
+            "button": "Subscribe"
+        },
+        "footer": {
+            "copyright": "© 2024 DesignBlog. All rights reserved."
+        },
+        "posts": [
+            {
+                "category": "Typography",
+                "title": "The importance of Typography in modern design",
+                "description": "Typography is not just about choosing fonts, it is the art of conveying messages and emotions through refined lines.",
+                "author": "Nguyen An",
+                "read_time": "15 min read"
+            },
+            {
+                "category": "UI/UX Design",
+                "title": "Optimizing user experience on mobile devices",
+                "description": "Learn the golden rules to design smoother and more intuitive apps for end users.",
+                "date": "May 24, 2024",
+                "read_time": "8 min read"
+            },
+            {
+                "category": "Branding",
+                "title": "Building a consistent brand identity system",
+                "description": "How to create a brand guideline that makes your business stand out from the crowd.",
+                "date": "May 20, 2024",
+                "read_time": "12 min read"
+            },
+            {
+                "category": "Tools",
+                "title": "10 indispensable Figma Plugins for Designers",
+                "description": "Accelerate your workflow with powerful support tools trusted by the community.",
+                "date": "May 15, 2024",
+                "read_time": "10 min read"
+            },
+            {
+                "category": "UI/UX Design",
+                "title": "Psychology of color in web design",
+                "description": "Discover how colors influence user behavior and emotions when visiting a website.",
+                "date": "May 10, 2024",
+                "read_time": "6 min read"
+            }
+        ]
+    },
+    "contact": {
+        "hero": {
+            "badge": "LET'S CONNECT",
+            "title": "Contact Me",
+            "description": "I'm always ready to listen and collaborate with you. Send me a message if you have any questions or ideas you want to bring to life."
+        },
+        "info": {
+            "email_title": "Email",
+            "email_value": "hello@hungnguyen.com",
+            "phone_title": "Phone",
+            "phone_value": "+84 123 456 789"
+        },
+        "socials": {
+            "title": "Social Media",
+            "linkedin": "LinkedIn",
+            "instagram": "Instagram",
+            "github": "GitHub"
+        },
+        "map": {
+            "location": "Ho Chi Minh City, Vietnam"
+        },
+        "form": {
+            "name_label": "Full Name",
+            "name_placeholder": "Enter your name",
+            "email_label": "Email",
+            "email_placeholder": "email@example.com",
+            "subject_label": "Subject",
+            "subject_options": [
+                "Business Collaboration",
+                "Quote Request",
+                "General Inquiry",
+                "Other"
+            ],
+            "message_label": "Message",
+            "message_placeholder": "What's on your mind?",
+            "submit_button": "Send Message"
+        },
+        "cta": {
+            "title": "Ready to start your next project?",
+            "description": "I usually respond to messages within 24 business hours. Let's create something amazing together!",
+            "email": "hello@hungnguyen.com"
+        },
+        "footer": {
+            "copyright": "© 2024 Hung Nguyen. All rights reserved. Designed with dedication."
+        }
     }
 }

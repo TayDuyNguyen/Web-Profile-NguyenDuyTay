@@ -1,4 +1,8 @@
+import { useTranslation } from "react-i18next";
+
 const CTASection = () => {
+    const { t } = useTranslation();
+
     return (
         <section className="py-24">
             <div className="max-w-7xl mx-auto px-6">
@@ -9,13 +13,13 @@ const CTASection = () => {
 
                     <div className="relative z-10 max-w-2xl mx-auto space-y-8">
                         <h2 className="text-4xl lg:text-6xl font-black leading-tight">
-                            Sẵn sàng để đưa ý tưởng của bạn thành hiện thực?
+                            {t("home.cta.title")}
                         </h2>
                         <p className="text-white/80 text-lg">
-                            Hãy cùng nhau tạo nên những điều tuyệt vời và mang lại giá trị cho cộng đồng.
+                            {t("home.cta.description")}
                         </p>
                         <button className="bg-white text-primary px-10 py-5 rounded-2xl font-black text-xl hover:scale-105 transition-transform shadow-2xl">
-                            Bắt đầu dự án mới
+                            {t("home.cta.start_project")}
                         </button>
                     </div>
                 </div>

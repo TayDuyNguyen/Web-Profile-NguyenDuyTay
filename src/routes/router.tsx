@@ -1,6 +1,12 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../App";
 import HomePage from "../pages/Home";
+import IntroducePage from "../pages/introduce";
+import ProjectsPage from "../pages/projects/ProjectsList";
+import ProjectDetailPage from "../pages/projects/ProjectDetail";
+import SkillsPage from "../pages/skills";
+import BlogPage from "../pages/blog";
+import ContactPage from "../pages/contact";
 
 const router = createBrowserRouter([
     {
@@ -11,15 +17,30 @@ const router = createBrowserRouter([
                 index: true,
                 element: <HomePage />,
             },
-            // Thêm các route mới ở đây, ví dụ:
-            // {
-            //   path: "blog",
-            //   element: <BlogPage />,
-            // },
-            // {
-            //   path: "contact",
-            //   element: <ContactPage />,
-            // },
+            {
+                path: "introduce",
+                element: <IntroducePage />,
+            },
+            {
+                path: "projects",
+                element: <ProjectsPage />,
+            },
+            {
+                path: "projects/:id",
+                element: <ProjectDetailPage />,
+            },
+            {
+                path: "skills",
+                element: <SkillsPage />,
+            },
+            {
+                path: "blog",
+                element: <BlogPage />,
+            },
+            {
+                path: "contact",
+                element: <ContactPage />,
+            },
         ],
     },
 ]);

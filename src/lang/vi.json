@@ -16,5 +16,363 @@
         "about_me": "Về tôi",
         "privacy": "Chính sách bảo mật",
         "terms": "Điều khoản dịch vụ"
+    },
+    "home": {
+        "hero": {
+            "ready": "Sẵn sàng cho dự án mới",
+            "title": "Xây dựng sản phẩm số chuẩn chỉnh từ đầu",
+            "description": "Biến ý tưởng của bạn thành website và ứng dụng thực tế. Thiết kế đẹp, vận hành ổn định — đúng tiến độ, đúng ngân sách.",
+            "view_projects": "Xem dự án",
+            "about_me": "Về tôi"
+        },
+        "services": {
+            "title": "Chuyên môn & Dịch vụ",
+            "description": "Cung cấp các giải pháp toàn diện từ ý tưởng đến sản phẩm số hoàn thiện mang tính thẩm mỹ cao.",
+            "items": [
+                {
+                    "title": "Thiết kế Giao diện & Trải nghiệm Người dùng",
+                    "description": "Thiết kế giao diện người dùng tinh tế và tối ưu hóa trải nghiệm sản phẩm số qua nghiên cứu chuyên sâu."
+                },
+                {
+                    "title": "Nhận diện Thương hiệu",
+                    "description": "Xây dựng bản sắc thương hiệu độc đáo, nhất quán và truyền tải đúng giá trị cốt lõi đến khách hàng."
+                },
+                {
+                    "title": "Chiến lược Sản phẩm",
+                    "description": "Tư vấn chiến lược phát triển sản phẩm dựa trên nhu cầu thị trường và bài toán kinh doanh thực tế."
+                }
+            ]
+        },
+        "projects": {
+            "title": "Dự án tiêu biểu",
+            "description": "Những sản phẩm tôi tâm đắc nhất, thể hiện sự kết hợp giữa nghệ thuật và kỹ thuật.",
+            "all_projects": "Tất cả dự án",
+            "items": [
+                {
+                    "title": "DaNang Explorer",
+                    "description": "Nền tảng tổng hợp toàn bộ dịch vụ du lịch tại Đà Nẵng — từ khách sạn, nhà hàng đến trải nghiệm địa phương."
+                },
+                {
+                    "title": "EduFlow",
+                    "description": "Ứng dụng học tập thông minh với lộ trình cá nhân hóa và công cụ ghi nhớ kiến thức hiệu quả."
+                },
+                {
+                    "title": "Sellio",
+                    "description": "Giải pháp quản lý bán hàng toàn diện, tối ưu từ giỏ hàng, thanh toán đến theo dõi đơn hàng."
+                }
+            ]
+        },
+        "about": {
+            "title": "Triết lý thiết kế của tôi",
+            "philosophy": "\"Thiết kế không chỉ là những gì chúng ta nhìn thấy, mà là cách nó hoạt động và cảm giác nó mang lại cho con người.\"",
+            "description": "Tôi tin rằng cái đẹp thực sự nằm ở sự đơn giản và tinh tế. Mỗi dự án tôi thực hiện đều bắt đầu từ việc thấu hiểu nỗi đau của người dùng để từ đó tạo ra những giải pháp không chỉ đẹp mắt mà còn giải quyết triệt để vấn đề.",
+            "learn_more": "Tìm hiểu thêm về tôi"
+        },
+        "cta": {
+            "title": "Sẵn sàng để đưa ý tưởng của bạn thành hiện thực?",
+            "description": "Hãy cùng nhau tạo nên những điều tuyệt vời và mang lại giá trị cho cộng đồng.",
+            "start_project": "Bắt đầu dự án mới"
+        }
+    },
+    "introduce": {
+        "hero": {
+            "greeting": "Xin chào, tôi là",
+            "name": "Nguyễn Văn A",
+            "role": "Creative Designer & Product Strategist",
+            "description": "Tôi tập trung vào việc tạo ra những trải nghiệm kỹ thuật số đơn giản, tinh tế và đầy cảm hứng.",
+            "location": "Hà Nội, Việt Nam",
+            "experience": "8+ Năm Kinh Nghiệm"
+        },
+        "bio": {
+            "title": "Câu chuyện của tôi",
+            "p1": "Hành trình sáng tạo của tôi bắt đầu từ sự tò mò về cách con người tương tác với công nghệ. Tôi tin rằng thiết kế tốt không chỉ là về tính thẩm mỹ, mà còn là về sự thấu cảm và giải quyết các vấn đề thực tế một cách thông minh.",
+            "p2": "Với hơn 8 năm làm việc trong lĩnh vực UI/UX và nhận diện thương hiệu, tôi đã có cơ hội hợp tác với nhiều startup và tập đoàn lớn để xây dựng những sản phẩm có sức ảnh hưởng. Phong cách của tôi thiên về sự tối giản, nơi mỗi đường nét và khoảng trắng đều có mục đích riêng.",
+            "stats": {
+                "projects": "Dự án hoàn thành",
+                "awards": "Giải thưởng thiết kế"
+            }
+        },
+        "experience": {
+            "title": "Hành trình sự nghiệp",
+            "items": [
+                {
+                    "role": "Senior Product Designer",
+                    "company": "Creative Studio XYZ",
+                    "time": "2021 - Hiện tại",
+                    "desc": "Dẫn dắt đội ngũ thiết kế xây dựng hệ thống Design System cho các ứng dụng ngân hàng số thế hệ mới."
+                },
+                {
+                    "role": "UI/UX Designer",
+                    "company": "Tech Solutions Asia",
+                    "time": "2018 - 2021",
+                    "desc": "Thiết kế trải nghiệm người dùng cho nền tảng thương mại điện tử với hơn 1 triệu người dùng hàng tháng."
+                },
+                {
+                    "role": "Junior Graphic Designer",
+                    "company": "Branding Agency ABC",
+                    "time": "2016 - 2018",
+                    "desc": "Phát triển nhận diện thương hiệu và ấn phẩm truyền thông cho các nhãn hàng F&B."
+                }
+            ]
+        },
+        "values": {
+            "title": "Giá trị cốt lõi",
+            "subtitle": "Những nguyên tắc định hình phong cách làm việc của tôi.",
+            "items": [
+                {
+                    "title": "Tối giản là sức mạnh",
+                    "desc": "Loại bỏ những yếu tố dư thừa để tập trung vào giá trị cốt lõi. Sự đơn giản mang lại sự rõ ràng và hiệu quả."
+                },
+                {
+                    "title": "Thiết kế vị nhân sinh",
+                    "desc": "Luôn đặt người dùng làm trung tâm của mọi quyết định thiết kế. Lắng nghe, thấu hiểu và phục vụ."
+                },
+                {
+                    "title": "Học hỏi không ngừng",
+                    "desc": "Thế giới công nghệ luôn thay đổi. Tôi luôn cập nhật xu hướng và công nghệ mới để nâng cao chất lượng sản phẩm."
+                }
+            ]
+        }
+    },
+    "projects": {
+        "title": "Dự án của tôi",
+        "description": "Khám phá những sản phẩm và giải pháp sáng tạo tôi đã thực hiện trong suốt quá trình làm nghề.",
+        "filter": {
+            "all": "Tất cả"
+        },
+        "view_detail": "Xem chi tiết",
+        "no_results": "Không tìm thấy dự án phù hợp.",
+        "not_found": "Không tìm thấy dự án.",
+        "back_to_projects": "Quay lại dự án",
+        "detail": {
+            "problem": "Vấn đề",
+            "solution": "Giải pháp",
+            "gallery": "Giao diện thiết kế",
+            "next_project": "Xem tiếp",
+            "next_btn": "Dự án tiếp theo",
+            "meta": {
+                "role": "Vai trò",
+                "duration": "Thời gian",
+                "tools": "Công cụ",
+                "field": "Lĩnh vực"
+            }
+        }
+    },
+    "projectsDetail": {
+        "danang": {
+            "meta": {
+                "role": "Lead UI/UX Designer",
+                "duration": "4 tháng (2025)",
+                "tools": "Figma, Flutter",
+                "field": "Du lịch & Dịch vụ"
+            },
+            "problemTitle": "Khó khăn trong việc tìm kiếm dịch vụ du lịch tại Đà Nẵng.",
+            "problemDesc": "Du khách thường phải truy cập nhiều nền tảng khác nhau để đặt khách sạn, tìm nhà hàng và khám phá địa điểm. Sự phân mảnh thông tin khiến trải nghiệm du lịch trở nên phức tạp và tốn thời gian.",
+            "solutionTitle": "Tổng hợp toàn bộ dịch vụ du lịch trên một nền tảng duy nhất.",
+            "solutionDesc": "DaNang Explorer tích hợp đặt phòng, gợi ý nhà hàng, tour trải nghiệm và bản đồ thông minh vào một ứng dụng giao diện trực quan, giúp du khách lên kế hoạch và tận hưởng chuyến đi hoàn hảo chỉ với vài thao tác."
+        },
+        "eduflow": {
+            "meta": {
+                "role": "Mobile App Designer",
+                "duration": "3 tháng (2025)",
+                "tools": "Figma, React Native",
+                "field": "Giáo dục"
+            },
+            "problemTitle": "Người học thiếu lộ trình học tập cá nhân hóa và công cụ ghi nhớ hiệu quả.",
+            "problemDesc": "Hầu hết các ứng dụng học tập hiện nay cung cấp nội dung đồng nhất cho tất cả người dùng. Điều này khiến người học dễ nản chí khi gặp phần quá khó hoặc mất thời gian với nội dung đã nắm vững.",
+            "solutionTitle": "Lộ trình học thích ứng và flashcard thông minh theo thuật toán spaced repetition.",
+            "solutionDesc": "EduFlow phân tích tiến trình học và tự động điều chỉnh độ khó của bài tập. Hệ thống flashcard AI nhắc lại đúng thời điểm để củng cố kiến thức lâu dài, kết hợp giao diện gamification tăng động lực học tập hàng ngày."
+        },
+        "sellio": {
+            "meta": {
+                "role": "Full-stack Designer",
+                "duration": "5 tháng (2025)",
+                "tools": "Figma, Next.js",
+                "field": "Thương mại điện tử"
+            },
+            "problemTitle": "Quản lý bán hàng online thiếu hệ thống tập trung và minh bạch.",
+            "problemDesc": "Các shop online đang phải dùng nhiều công cụ rời rạc để quản lý đơn hàng, kho hàng và thanh toán. Điều này gây thất thoát dữ liệu, sai sót đơn hàng và tốn nhiều thời gian xử lý thủ công.",
+            "solutionTitle": "Nền tảng quản lý bán hàng toàn diện từ A tới Z trên một giao diện.",
+            "solutionDesc": "Sellio hợp nhất quản lý sản phẩm, giỏ hàng, thanh toán đa cổng và theo dõi đơn hàng thời gian thực. Dashboard trực quan với biểu đồ doanh thu giúp chủ shop ra quyết định nhanh chóng và chính xác."
+        }
+    },
+    "skills": {
+        "hero": {
+            "badge": "Chuyên môn",
+            "title": "Kỹ năng & Quy trình",
+            "description": "Sự kết hợp giữa tư duy thẩm mỹ và quy trình làm việc khoa học để tạo ra những sản phẩm kỹ thuật số tối ưu."
+        },
+        "technical": {
+            "title": "Kỹ năng chuyên môn",
+            "skills": [
+                {
+                    "title": "Figma",
+                    "desc": "UI/UX Design & Prototyping"
+                },
+                {
+                    "title": "Adobe Suite",
+                    "desc": "Photoshop & Illustrator"
+                },
+                {
+                    "title": "After Effects",
+                    "desc": "Motion Graphics & Animation"
+                },
+                {
+                    "title": "Webflow",
+                    "desc": "No-code Development"
+                },
+                {
+                    "title": "React.js",
+                    "desc": "Frontend Development"
+                },
+                {
+                    "title": "Design Systems",
+                    "desc": "Scalable UI Components"
+                }
+            ]
+        },
+        "process": {
+            "title": "Quy trình thiết kế",
+            "subtitle": "Cách tôi hiện thực hóa ý tưởng từ bản thảo đến sản phẩm hoàn thiện.",
+            "steps": [
+                {
+                    "title": "1. Nghiên cứu",
+                    "desc": "Phân tích yêu cầu, khảo sát người dùng và tìm hiểu đối thủ cạnh tranh."
+                },
+                {
+                    "title": "2. Wireframe",
+                    "desc": "Xây dựng cấu trúc thông tin và phác thảo luồng người dùng cơ bản."
+                },
+                {
+                    "title": "3. Prototype",
+                    "desc": "Thiết kế giao diện chi tiết và tạo bản mẫu tương tác thực tế."
+                },
+                {
+                    "title": "4. Kiểm thử",
+                    "desc": "Đánh giá khả năng sử dụng và tối ưu hóa dựa trên phản hồi."
+                }
+            ]
+        },
+        "cta": {
+            "title": "Cùng tạo ra điều gì đó tuyệt vời",
+            "description": "Tôi luôn tìm kiếm những thử thách mới và cơ hội hợp tác trong các dự án sáng tạo. Bạn đã sẵn sàng để bắt đầu dự án tiếp theo của mình?",
+            "contact_btn": "Liên hệ ngay",
+            "portfolio_btn": "Xem Portfolio",
+            "status_label": "Tình trạng",
+            "status_value": "Đang nhận dự án mới"
+        }
+    },
+    "blog": {
+        "hero": {
+            "title": "Bài viết & Chia sẻ",
+            "description": "Khám phá những góc nhìn mới về thiết kế, chia sẻ kinh nghiệm thực tế và cập nhật xu hướng UI/UX hiện đại từ đội ngũ sáng tạo."
+        },
+        "search": {
+            "placeholder": "Bạn đang tìm kiếm chủ đề nào?"
+        },
+        "filters": {
+            "all": "Tất cả",
+            "ui_ux": "UI/UX Design",
+            "typography": "Typography",
+            "branding": "Branding",
+            "tools": "Công cụ",
+            "case_study": "Case Study"
+        },
+        "featured": {
+            "badge": "Nổi bật",
+            "read_more": "Đọc thêm"
+        },
+        "newsletter": {
+            "title": "Đăng ký nhận tin",
+            "description": "Cập nhật những bài viết mới nhất và tài nguyên thiết kế giá trị mỗi tuần trực tiếp qua email.",
+            "placeholder": "Email của bạn...",
+            "button": "Đăng ký"
+        },
+        "footer": {
+            "copyright": "© 2024 DesignBlog. All rights reserved."
+        },
+        "posts": [
+            {
+                "category": "Typography",
+                "title": "Tầm quan trọng của Typography trong thiết kế hiện đại",
+                "description": "Typography không chỉ là việc chọn phông chữ, nó là nghệ thuật truyền tải thông điệp và cảm xúc thông qua những đường nét tinh tế.",
+                "author": "Nguyễn An",
+                "read_time": "15 phút đọc"
+            },
+            {
+                "category": "UI/UX Design",
+                "title": "Tối ưu hóa trải nghiệm người dùng trên thiết bị di động",
+                "description": "Tìm hiểu các nguyên tắc vàng để thiết kế ứng dụng mượt mà và trực quan hơn cho người dùng cuối.",
+                "date": "24 Th5, 2024",
+                "read_time": "8 phút đọc"
+            },
+            {
+                "category": "Branding",
+                "title": "Xây dựng hệ thống nhận diện thương hiệu nhất quán",
+                "description": "Làm thế nào để tạo ra một bộ quy chuẩn thương hiệu giúp doanh nghiệp của bạn nổi bật giữa đám đông.",
+                "date": "20 Th5, 2024",
+                "read_time": "12 phút đọc"
+            },
+            {
+                "category": "Công cụ",
+                "title": "10 Plugin Figma không thể thiếu cho Designer",
+                "description": "Tăng tốc quy trình làm việc của bạn với những công cụ hỗ trợ mạnh mẽ được cộng đồng tin dùng.",
+                "date": "15 Th5, 2024",
+                "read_time": "10 phút đọc"
+            },
+            {
+                "category": "UI/UX Design",
+                "title": "Tâm lý học về màu sắc trong thiết kế web",
+                "description": "Khám phá cách màu sắc ảnh hưởng đến hành vi và cảm xúc của người dùng khi truy cập trang web.",
+                "date": "10 Th5, 2024",
+                "read_time": "6 phút đọc"
+            }
+        ]
+    },
+    "contact": {
+        "hero": {
+            "badge": "HÃY KẾT NỐI",
+            "title": "Liên hệ với tôi",
+            "description": "Tôi luôn sẵn sàng lắng nghe và hợp tác cùng bạn. Hãy gửi tin nhắn cho tôi nếu bạn có bất kỳ thắc mắc hoặc ý tưởng nào muốn thực hiện."
+        },
+        "info": {
+            "email_title": "Email",
+            "email_value": "hello@hungnguyen.com",
+            "phone_title": "Điện thoại",
+            "phone_value": "+84 123 456 789"
+        },
+        "socials": {
+            "title": "Mạng xã hội",
+            "linkedin": "LinkedIn",
+            "instagram": "Instagram",
+            "github": "GitHub"
+        },
+        "map": {
+            "location": "Thành phố Hồ Chí Minh, Việt Nam"
+        },
+        "form": {
+            "name_label": "Họ và tên",
+            "name_placeholder": "Nhập tên của bạn",
+            "email_label": "Email",
+            "email_placeholder": "email@example.com",
+            "subject_label": "Chủ đề",
+            "subject_options": [
+                "Hợp tác kinh doanh",
+                "Yêu cầu báo giá",
+                "Hỏi đáp chung",
+                "Khác"
+            ],
+            "message_label": "Tin nhắn",
+            "message_placeholder": "Bạn đang nghĩ gì?",
+            "submit_button": "Gửi tin nhắn"
+        },
+        "cta": {
+            "title": "Sẵn sàng để bắt đầu dự án tiếp theo?",
+            "description": "Tôi thường phản hồi tin nhắn trong vòng 24 giờ làm việc. Hãy cùng nhau tạo ra điều gì đó tuyệt vời!",
+            "email": "hello@hungnguyen.com"
+        },
+        "footer": {
+            "copyright": "© 2024 Hùng Nguyễn. All rights reserved. Thiết kế với sự tận tâm."
+        }
     }
 }
